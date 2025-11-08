@@ -25,3 +25,12 @@ o que você melhoraria no trecho selecionado?
 
 
 realize essas sugestões no código
+
+
+
+
+
+TaskStatus precisa de um dto para entrada e validação com @Valid. Como você criaria no mesmo diretório do TaskRequest.java?
+
+
+crie, por favor
